@@ -1,0 +1,7 @@
+DASSERVICE REMOVE
+REMOVE NON IMPLEMENTED ANLYTICS METHOD -done
+CHECK DASTICKET SUCCESS IN EVERY SERVICES
+make post api for cohort - done
+change convert to list method - done
+
+changes in cw
